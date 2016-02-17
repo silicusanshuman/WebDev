@@ -1,0 +1,19 @@
+@charset "utf-8";
+
+body {
+        background-color:lightGray;
+       height: 150px;
+}
+
+h1 {
+        color:gray; 
+        font-family:verdana; 
+        font-size:300%;
+        text-align:center;
+        background-color:lightBlue;
+}
+
+address {
+        color:brown; 
+        text-align: justify;
+}
